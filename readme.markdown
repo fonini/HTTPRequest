@@ -9,7 +9,7 @@ A simple class that retrieves remote content on servers without cURL and/or othe
         require('HTTPRequest.class.php');
         
         $request = new HTTPRequest('http://www.google.com');
-		echo $request->getContent(); // or symply echo $request;
+		echo $request->getContent(); // or just: echo $request;
 
         echo '<pre>';
         print_r($request->getHeaders());
