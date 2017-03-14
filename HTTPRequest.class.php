@@ -7,7 +7,7 @@
  * other limitations like allow_url_fopen using sockets. It also validates 
  * the URL passed.
  *
- * @author Jonnas Fonini <contato@fonini.net>
+ * @author Jonnas Fonini <jonnasfonini@gmail.com>
  * @version 2011-02-27
  */
 class HTTPRequest{
